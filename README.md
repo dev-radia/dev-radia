@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-radia&label=Profile%20views&color=0e75b6&style=flat" alt="dev-radia" /> </p>
 
-- 👨‍💻 All of my projects are available at [devradiya97@gmail.com](devradia.xyz)
+- 👨‍💻 All of my projects are available at [devradia.xyz](devradia.xyz)
 
 - 📫 How to reach me **admin@devradia.xyz**
 
