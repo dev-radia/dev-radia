@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [devradia.xyz](devradia.xyz)
 
-- 📫 How to reach me **admin@devradia.xyz**
+- 📫 How to reach me **devradiya97@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a7UOd5vpTNPushinQtp2EIArdrudfEqE/view?usp=sharing](https://drive.google.com/file/d/1a7UOd5vpTNPushinQtp2EIArdrudfEqE/view?usp=sharing)
 
